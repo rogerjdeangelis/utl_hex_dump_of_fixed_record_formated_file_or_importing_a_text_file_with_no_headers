@@ -13,8 +13,6 @@ I need to check the file against the layout. I am assumming no delimiter and no 
     =====
 
       Fixed length file. Columns in fixed positions, no delimiters, and no end of record characters.
-
-      12345678901234567
                                                              57                            87
       VARCHAR2(17Byte) VARCHAR2(39Byte)                       VARCHAR2(30Byte)              VARCHAR2(33Byte) ...
 
